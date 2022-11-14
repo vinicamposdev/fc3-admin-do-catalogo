@@ -3,9 +3,9 @@ package com.fullcycle.admin.catalogo.domain;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class CatalogTest {
+public class CategoryTest {
     @Test
     public void testNewCatalog() {
-        Assertions.assertNotNull(new Catalog());
+        Assertions.assertNotNull(new Category());
     }
 }
