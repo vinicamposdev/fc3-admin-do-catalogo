@@ -5,7 +5,6 @@ import com.fullcycle.admin.catalogo.domain.category.CategoryGateway;
 import com.fullcycle.admin.catalogo.domain.validation.handler.Notification;
 
 import static io.vavr.API.Left;
-import static io.vavr.API.Right;
 import static io.vavr.API.Try;
 
 import io.vavr.control.Either;

@@ -1,6 +1,8 @@
 package com.fullcycle.admin.catalogo.application.category.create;
 
 import com.fullcycle.admin.catalogo.application.UseCaseTest;
+import com.fullcycle.admin.catalogo.application.category.create.CreateCategoryCommand;
+import com.fullcycle.admin.catalogo.application.category.create.DefaultCreateCategoryUseCase;
 import com.fullcycle.admin.catalogo.domain.category.CategoryGateway;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
